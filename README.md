@@ -16,7 +16,7 @@ Gyazo gyazo;
 
 void setup() {
   size(640, 480);
-  gyazo = new Gyazo(this); // upload to gyazo.com
+  gyazo = new Gyazo(this);
 }
 
 void draw() {
