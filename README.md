@@ -4,8 +4,7 @@ p5_gyazo
 p5_gyazo is a simple Gyazo client library for Processing.
 You can easily upload a sketch image to Gyazo.
 
-gyazo
-* http://gyazo.com
+* [gyazo](http://gyazo.com)
 
 Usage
 =========
